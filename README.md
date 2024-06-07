@@ -1,6 +1,6 @@
 # :wave: I'm Aaron
 
-> I am learning Python and Luau. Open-source software developer.
+> I am learning C and Luau. Open-source software developer.
 
 ## About Me
 
