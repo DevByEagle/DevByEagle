@@ -8,7 +8,7 @@ I use GitHub for my projects. For now, I just develop on Roblox with Luau but I 
 
 ## Contact
 
-[![X](https://img.shields.io/badge/X-black?logo=x&logoColor=white&style=for-the-badge)](https://x.com/ItsAaronfan56)
+[![X](https://img.shields.io/badge/X-black?logo=x&logoColor=white&style=for-the-badge)](https://x.com/DevByEagle)
 
 You can contact me by click any of the above badges and contacting me from there. Email is the fastest response times.
 
