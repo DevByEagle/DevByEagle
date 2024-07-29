@@ -14,7 +14,7 @@ You can contact me by click any of the above badges and contacting me from there
 
 ---
 
-<a href="https://github.com/Buddyfan56/Buddyfan56">
+<a href="https://github.com/DevByEagle/DevByEagle">
 <picture>
  <source
     srcset="https://github-readme-stats.vercel.app/api?username=DevByEagle&text_bold=false&custom_title=GitHub%20Stats&show_icons=true&disable_animations=true&theme=github_dark_dimmed"
