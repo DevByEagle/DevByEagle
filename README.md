@@ -1,10 +1,10 @@
 # :wave: I'm Aaron
 
-> I am learning C and Luau. Open-source software developer.
+> I am learning C and C++ and Luau. Open-source software developer.
 
 ## About Me
 
-I use GitHub for my projects. For now, I just develop on Roblox with Luau but I plan to expand into other languages. I'm currently experienced in Lua.
+I use GitHub for my projects. For now, I just develop on Roblox with Luau but I plan to expand into other languages. I'm currently experienced in the Lua and Python a.
 
 ## Contact
 
