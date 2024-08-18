@@ -4,7 +4,7 @@
 
 ## About Me
 
-I use GitHub for my projects. For now, I just develop on Roblox with Luau but I plan to expand into other languages. I'm currently experienced in the Lua and Python a.
+I use GitHub for my projects. For now, I just develop on Roblox with Luau but I plan to expand into other languages. I'm currently experienced in the Lua and Python.
 
 ## Contact
 
