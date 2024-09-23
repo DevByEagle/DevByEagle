@@ -14,17 +14,16 @@ You can contact me by click any of the above badges and contacting me from there
 
 ---
 
-<a href="https://github.com/DevByEagle/DevByEagle">
-<picture>
- <source
-    srcset="https://github-readme-stats.vercel.app/api?username=DevByEagle&text_bold=false&custom_title=GitHub%20Stats&show_icons=true&disable_animations=true&theme=github_dark_dimmed"
-   media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=DevByEagle&text_bold=false&custom_title=GitHub%20Stats&show_icons=true&disable_animations=true&theme=default"
-   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
+<div align="center">
 
-   <img align="center" src="https://github-readme-stats.vercel.app/api?username=DevByEagle&text_bold=false&custom_title=GitHub%20Stats&show_icons=true&disable_animations=true" />
-</picture>
-</a>
+  <table align="left">
+    <tr>
+      <td align="center">
+        <img src="https://readme-stats-thegoldenpro.vercel.app/api?username=DevByEagle&show_icons=true&title_color=a9d9d3&icon_color=ffffff&text_color=71afc8&bg_color=00000000&border_radius=20&border_color=71afc8" width="500px"/> 
+      </td>
+      <td align="center">
+        <img src="https://readme-stats-thegoldenpro.vercel.app/api/top-langs/?username=DevByEagle&layout=compact&langs_count=10&title_color=a9d9d3&icon_color=ffffff&text_color=71afc8&bg_color=00000000&border_radius=20&border_color=71afc8" width="330px"/>
+      </td>
+    </tr>
+  </table>
+</div>
