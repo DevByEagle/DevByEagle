@@ -1,30 +1,28 @@
 # :wave: I'm DevByEagle
 
-> I am learning C and C++ and Luau. Open-source software developer.
+<!-- ![GitHub Header](https://via.placeholder.com/1000x200.png?text=Welcome+to+my+GitHub) <!-- Replace with your custom banner image -->
 
-## About Me
-
-I use GitHub for my projects. For now, I just develop on Roblox with Luau but I plan to expand into other languages. I'm currently experienced in the Lua and Python.
-
-## Contact
-
+## 📬 Contact Me
 [![X](https://img.shields.io/badge/X-black?logo=x&logoColor=white&style=for-the-badge)](https://x.com/DevByEagle)
-[![Guilded](https://img.shields.io/badge/guilded-f5c400?logo=guilded&logoColor=333333&style=for-the-badge)](https://www.guilded.gg/u/DevByEagle)
 
-You can contact me by click any of the above badges and contacting me from there. Email is the fastest response times.
+You can contact me by clicking any of the above badges and contacting me from there. Email is the fastest response time.
 
 ---
 
-<div align="center">
+<!-- ## 🌟 Support Me  
 
-  <table align="left">
-    <tr>
-      <td align="center">
-        <img src="https://readme-stats-thegoldenpro.vercel.app/api?username=DevByEagle&show_icons=true&title_color=a9d9d3&icon_color=ffffff&text_color=71afc8&bg_color=00000000&border_radius=20&border_color=71afc8" width="500px"/> 
-      </td>
-      <td align="center">
-        <img src="https://readme-stats-thegoldenpro.vercel.app/api/top-langs/?username=DevByEagle&layout=compact&langs_count=10&title_color=a9d9d3&icon_color=ffffff&text_color=71afc8&bg_color=00000000&border_radius=20&border_color=71afc8" width="330px"/>
-      </td>
-    </tr>
-  </table>
+If you love my work and want to support me:  
+
+- **Give me a ⭐** on your favorite projects!  
+- **Buy me a coffee**: [![Buy Me A Coffee](https://img.shields.io/badge/-Buy%20Me%20A%20Coffee-yellow?style=for-the-badge&logo=buy-me-a-coffee)](https://buymeacoffee.com/YourLink)  
+- **Sponsor Me**: [![Sponsor](https://img.shields.io/badge/Sponsor-YourName-blue?style=for-the-badge&logo=github-sponsors)](https://github.com/sponsors/YourUsername)  
+
+--- -->
+
+Thanks for stopping by! Let’s build something awesome together! 🚀
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DevByEagle&show_icons=true&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DevByEagle&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DevByEagle&theme=radical" alt="GitHub Profile Summary" />
 </div>
