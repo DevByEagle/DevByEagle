@@ -5,7 +5,7 @@
 ## 📬 Contact Me
 [![X](https://img.shields.io/badge/X-black?logo=x&logoColor=white&style=for-the-badge)](https://x.com/DevByEagle)
 
-You can contact me by clicking any of the above badges and contacting me from there. Email is the fastest response time.
+You can contact me by clicking any of the above badges and contacting me from there.
 
 ---
 
